@@ -1,8 +1,9 @@
-const max=["ali","reza"];
+const max = ["ali", "reza"];
 
 max.forEach(name => {
     console.log(name);
 });
-let ten=10;
-let seven=7;
-console.log(ten*seven);
+let ten = 10;
+let seven = 7;
+console.log(ten * seven);
+const edition = ten = seven ? ten * 10 :none;
